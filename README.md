@@ -1,5 +1,5 @@
 # shadowsocks-chrome-utorrent-ipv4--ipv6
-> shadowsocks config:
+## shadowsocks config:
 '''json
 {
     "server":"::",
@@ -15,7 +15,7 @@
     "prefer_ipv6": true
 }
 '''
-> chrome config:
+## chrome config:
 Proxy SwitchyOmega use localhost for proxy
-> utorrent config:
+## utorrent config:
 Use localhost for proxy
